@@ -8,7 +8,7 @@ This app will be available on Google Play soon.
 As an avid Android user myself, I take privacy very seriously.
 I know how irritating it is when apps collect your data without your knowledge.
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (created by you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+I hereby state, to the best of my knowledge and belief, that my app will not collect any personally identifiable information, besides the Advertising ID of your device (for serving the advertisements). All data (created by you (the user)) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
 ### Explanation of permissions requested in the app
 
